@@ -1,2 +1,2 @@
 # Diagramsascode
-Diagram as Code example code
+Diagram as Code examples
